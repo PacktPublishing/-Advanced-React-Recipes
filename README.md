@@ -22,7 +22,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This video is for developers who are competent with JavaScript and are looking to include React in their development workflow. Sound knowledge of ReactJS features would be required
 ### Technical Requirements
 This course has the following software requirements:<br/>
-React
+React<br/>
 Redux
 
 ## Related Products
