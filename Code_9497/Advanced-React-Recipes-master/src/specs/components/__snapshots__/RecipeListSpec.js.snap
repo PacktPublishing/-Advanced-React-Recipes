@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeList /> Should render favorited states 1`] = `
+<div
+  className={undefined}
+  style={undefined}
+>
+  <ul
+    className="list-reset"
+  >
+    <span>
+      <li
+        className="py2 border-bottom border-bottom-dashed pointer nowrap"
+        onClick={[Function]}
+      >
+        <div
+          className="inline-block animated"
+          onClick={[Function]}
+          role="button"
+        >
+          ✅
+        </div>
+        <span>
+          Test recipe 1
+        </span>
+        <span>
+          Dessert
+        </span>
+      </li>
+      <li
+        className="py2 border-bottom border-bottom-dashed pointer nowrap"
+        onClick={[Function]}
+      >
+        <div
+          className="inline-block animated"
+          onClick={[Function]}
+          role="button"
+        >
+          ⬜️
+        </div>
+        <span>
+          Test recipe 2
+        </span>
+        <span>
+          Meat
+        </span>
+      </li>
+    </span>
+  </ul>
+</div>
+`;
+
+exports[`<RecipeList /> Should render passed recipes 1`] = `
+<div
+  className={undefined}
+  style={undefined}
+>
+  <ul
+    className="list-reset"
+  >
+    <span>
+      <li
+        className="py2 border-bottom border-bottom-dashed pointer nowrap"
+        onClick={[Function]}
+      >
+        <div
+          className="inline-block animated"
+          onClick={[Function]}
+          role="button"
+        >
+          ⬜️
+        </div>
+        <span>
+          Test recipe 1
+        </span>
+        <span>
+          Dessert
+        </span>
+      </li>
+      <li
+        className="py2 border-bottom border-bottom-dashed pointer nowrap"
+        onClick={[Function]}
+      >
+        <div
+          className="inline-block animated"
+          onClick={[Function]}
+          role="button"
+        >
+          ⬜️
+        </div>
+        <span>
+          Test recipe 2
+        </span>
+        <span>
+          Meat
+        </span>
+      </li>
+    </span>
+  </ul>
+</div>
+`;

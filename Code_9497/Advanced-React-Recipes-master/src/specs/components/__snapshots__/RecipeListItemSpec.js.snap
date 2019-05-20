@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<RecipeListItem /> Should render favorited state 1`] = `
+<li
+  className="py2 border-bottom border-bottom-dashed pointer nowrap"
+  onClick={[Function]}
+>
+  <div
+    className="inline-block animated"
+    onClick={[Function]}
+    role="button"
+  >
+    ✅
+  </div>
+  <span>
+    Test recipe
+  </span>
+  <span>
+    Dessert
+  </span>
+</li>
+`;
+
+exports[`<RecipeListItem /> Should render passed recipe 1`] = `
+<li
+  className="py2 border-bottom border-bottom-dashed pointer nowrap"
+  onClick={[Function]}
+>
+  <div
+    className="inline-block animated"
+    onClick={[Function]}
+    role="button"
+  >
+    ⬜️
+  </div>
+  <span>
+    Test recipe
+  </span>
+  <span>
+    Dessert
+  </span>
+</li>
+`;
